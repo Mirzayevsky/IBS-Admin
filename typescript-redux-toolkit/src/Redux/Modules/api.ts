@@ -1,0 +1,1 @@
+export const BASE_URL:string = "https://store-management-backend-app.herokuapp.com/api/v1";
